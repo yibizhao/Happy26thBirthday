@@ -106,6 +106,30 @@ const Actions = [{
     }]
   },
   {
+    lifeTime: 180,
+    texts: [{
+        text: 'I',
+        hsla: color2
+      },
+      {
+        text: ' ❤️ ',
+        hsla: color3
+      },
+      {
+        text: 'Y',
+        hsla: color2
+      },
+      {
+        text: 'O',
+        hsla: color2
+      },
+      {
+        text: 'U',
+        hsla: color2
+      },
+    ]
+  },
+  {
     lifeTime: 1,
     func: (width, height) => {
       window.location.href = "https://yibizhao.github.io/Happy26thBirthday/birthday-cake/";
