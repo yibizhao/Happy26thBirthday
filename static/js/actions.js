@@ -106,18 +106,11 @@ const Actions = [{
     }]
   },
   {
-    lifeTime: 180,
-    texts: [{
-        text: 'Happy',
-        hsla: color2
-      },
-      {
-        text: 'Birthday',
-        hsla: color3
-      },
+    lifeTime: 90,
+    texts: [
       {
         text: '小',
-        hsla: color2
+        hsla: color1
       },
       {
         text: '苦',
@@ -125,7 +118,19 @@ const Actions = [{
       },
       {
         text: '赖',
+        hsla: color3
+      },
+    ]
+  },
+  {
+    lifeTime: 90,
+    texts: [{
+        text: 'Happy',
         hsla: color2
+      },
+      {
+        text: 'Birthday',
+        hsla: color3
       },
     ]
   },
