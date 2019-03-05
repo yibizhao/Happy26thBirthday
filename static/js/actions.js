@@ -30,7 +30,7 @@ const Actions = [{
     lifeTime: 90,
     func: (width, height) => {
       if(!points1.length){
-        for(let i=0;i<1200;i++){
+        for(let i=0;i<10000;i++){
           let x = (i - 1200 / 2) / 300;
           let y = Math.sqrt(Math.abs(x)) - Math.sqrt(Math.cos(x)) * Math.cos(30 * x);
           if(!isNaN(y)){
