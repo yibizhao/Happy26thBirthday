@@ -386,6 +386,7 @@
     right: 5%;
     top: 5%;
     opacity: 0;
+    margin-top:-71px;
     animation:ly-stxt07_move 15s;
     animation-delay:3s;
     -webkit-animation:ly-stxt07_move 15s;
