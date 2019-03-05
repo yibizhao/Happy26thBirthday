@@ -224,7 +224,8 @@ body {
 }
 .button-style1 {
 	position:absolute;
-        left:43%;
+        left:43.5%;
+        animation:btn1 15s;
 }
 .button-style2 {
 	position:absolute;
@@ -234,29 +235,29 @@ body {
 @keyframes btn1 {
 	0% {
 		opacity:0;
-		left:43.5%;
+		left:80%;
 	}
 	70% {
 		opacity:0;
-		left:43.5%;
+		left:60%;
 	}
 	100% {
 		opacity:1;
-		left:20%;
+		left:43.5%;
 	}
 }
 @-webkit-keyframes btn1 {
 	0% {
 		opacity:0;
-		left:43.5%;
+		left:80%;
 	}
 	70% {
 		opacity:0;
-		left:43.5%;
+		left:60%;
 	}
 	100% {
 		opacity:1;
-		left:20%;
+		left:43.5%;
 	}
 }
 @keyframes btn2 {
