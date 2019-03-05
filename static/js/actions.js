@@ -106,31 +106,7 @@ const Actions = [{
     }]
   },
   {
-    lifeTime: 180,
-    texts: [{
-        text: 'HAPPY ',
-        hsla: color2
-      },
-      {
-        text: 'Birthday',
-        hsla: color3
-      },
-      {
-        text: '小',
-        hsla: color2
-      },
-      {
-        text: '苦',
-        hsla: color2
-      },
-      {
-        text: '赖',
-        hsla: color2
-      },
-    ]
-  },
-  {
-    lifeTime: 20,
+    lifeTime: 1,
     func: (width, height) => {
       window.location.href = "https://www.example.com";
     }
