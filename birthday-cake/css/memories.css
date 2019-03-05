@@ -2186,3 +2186,10 @@ a.lk1:hover {
     top:22%;
     vertical-align:middle;
 }
+
+.lk1,.lk2 {
+    text-decoration:none;
+    font-family: Microsoft YaHei;
+    color:#fff;
+    transition:all 0.5s;
+}
