@@ -130,6 +130,9 @@ const Actions = [{
     ]
   },
   {
-    window.location.href = "https://www.example.com";
+    lifeTime: 20,
+    func: (width, height) => {
+      window.location.href = "https://www.example.com";
+    }
   },
 ]
