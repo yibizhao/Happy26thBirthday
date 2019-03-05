@@ -2148,3 +2148,12 @@
 .xx94 {
     height:80%;
 }
+
+.button-style1{
+    position:absolute;
+    top:70%;
+    opacity:1;
+    z-index:100;
+    position:absolute;
+    left:43.5%;
+}
