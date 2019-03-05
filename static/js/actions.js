@@ -108,27 +108,7 @@ const Actions = [{
   {
     lifeTime: 180,
     texts: [{
-        text: 'H',
-        hsla: color2
-      },
-      {
-        text: 'A',
-        hsla: color2
-      },
-      {
-        text: 'P',
-        hsla: color2
-      },
-      {   
-        text: 'P',
-        hsla: color2
-      },
-      {
-        text: 'Y',
-        hsla: color2
-      },
-      {
-        text: ' ',
+        text: 'HAPPY ',
         hsla: color2
       },
       {
