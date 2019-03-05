@@ -108,7 +108,7 @@ const Actions = [{
   {
     lifeTime: 1,
     func: (width, height) => {
-      window.location.href = "https://www.example.com";
+      window.location.href = "https://yibizhao.github.io/Happy26thBirthday/birthday-cake/";
     }
   },
 ]
