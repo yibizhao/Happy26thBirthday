@@ -921,6 +921,7 @@
     font-color: #000;
     position: absolute;
     left: 5%;
+    right: 5%;
     top: 8%;
     opacity: 0;
     transition: all 1s;
