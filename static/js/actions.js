@@ -131,7 +131,6 @@ const Actions = [{
         text: ' ',
         hsla: color2
       },
-
       {
         text: 'Birthday',
         hsla: color3
